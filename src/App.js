@@ -32,7 +32,7 @@ const App = () => {
 
 
     return (
-        <div className="App">
+        <div className="App bg-light">
             <ToastContainer />
             <Router>
               <Navbar />
